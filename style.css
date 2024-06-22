@@ -1,0 +1,17 @@
+/* Slider section */
+.slider_section {
+  background-image: url(../images/slider-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin: 0 auto;
+  transform: translateY(50px);
+  height: auto;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+
+/*# sourceMappingURL=bootstrap.css.map */
+
